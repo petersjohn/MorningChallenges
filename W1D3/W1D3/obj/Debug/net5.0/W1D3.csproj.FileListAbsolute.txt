@@ -1,0 +1,16 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\obj\Debug\net5.0\W1D3.csprojAssemblyReference.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\obj\Debug\net5.0\W1D3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\obj\Debug\net5.0\W1D3.AssemblyInfoInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\obj\Debug\net5.0\W1D3.AssemblyInfo.cs
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\obj\Debug\net5.0\W1D3.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\bin\Debug\net5.0\W1D3.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\bin\Debug\net5.0\W1D3.deps.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\bin\Debug\net5.0\W1D3.runtimeconfig.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\bin\Debug\net5.0\W1D3.runtimeconfig.dev.json
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\bin\Debug\net5.0\W1D3.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\bin\Debug\net5.0\ref\W1D3.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\bin\Debug\net5.0\W1D3.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\obj\Debug\net5.0\W1D3.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\obj\Debug\net5.0\ref\W1D3.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\obj\Debug\net5.0\W1D3.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3\W1D3\obj\Debug\net5.0\W1D3.genruntimeconfig.cache
