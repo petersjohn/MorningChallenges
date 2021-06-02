@@ -12,25 +12,33 @@ namespace W1D3
             {
                 Console.WriteLine(letter);
             }
-            
+
+            Console.ReadKey();
 
             foreach(char letter in name)
              {
-                 if (letter != 'i')
-                     Console.WriteLine("Not an i.");
-                 else
-                 {
-                     Console.WriteLine(letter);
-                 }
+                if (letter == 'i' || letter == 'l')
+                {
+                    Console.WriteLine(letter);
+                }
+                else
+                {
+                    Console.WriteLine("Not an i or l.");
+                }
              }
-
+            Console.ReadKey();
             foreach (char letter in name)
             {
                 i++;
                 Console.WriteLine(i);
             }
+            Console.ReadKey();
 
-         }
+            
+
+
+
+        }
 
     }
 }

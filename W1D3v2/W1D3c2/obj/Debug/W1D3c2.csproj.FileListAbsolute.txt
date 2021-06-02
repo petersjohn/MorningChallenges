@@ -1,0 +1,6 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3v2\W1D3c2\bin\Debug\W1D3c2.exe.config
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3v2\W1D3c2\bin\Debug\W1D3c2.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3v2\W1D3c2\bin\Debug\W1D3c2.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3v2\W1D3c2\obj\Debug\W1D3c2.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3v2\W1D3c2\obj\Debug\W1D3c2.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Morning Challenge\W1D3v2\W1D3c2\obj\Debug\W1D3c2.pdb
